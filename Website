@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Welkom bij Arrowline</h1>
-    <p>Dit is de startpagina van het portaal.</p>
+    <p>Dit is de startpagina van het portaal!</p>
 
     <button onclick="alert('Contact opgenomen!')">
         Neem contact op
